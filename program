@@ -1,0 +1,11 @@
+Name="Udhayanila.D"
+Address="Namakkal"
+Course="Bsc Computer Science"
+m1=78
+m2=88
+m3=89
+m4=90
+m5=98
+Total=m1+m2+m3+m4+m5
+Average=Total/5
+print("My name is",Name,"\nI am from",Address,"\nI am studying",Course,"\nscience",m1,"\ncomputer science",m2,"\ntamil",m3,"\nenglish",m4,"\nmaths",m5,"\nTotal mark is",Total,"\nAverage",Average)
